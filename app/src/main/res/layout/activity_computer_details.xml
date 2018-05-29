@@ -203,6 +203,7 @@
             android:id="@+id/menu_eliminar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="delete"
             android:src="@android:drawable/ic_menu_delete"
             app:fab_colorNormal="@color/colorAccent"
             app:fab_colorPressed="@color/colorAccent"
