@@ -16,8 +16,8 @@ import android.widget.TextView;
 public class ComputerDetails extends AppCompatActivity {
     private CollapsingToolbarLayout collapsingToolbarLayout;
     private Computer c;
-    private String vRam, id;
-    private int img, vBrand, vColor, vType, vOS;
+    private String id;
+    private int img, vRam, vBrand, vColor, vType, vOS;
     private Bundle bundle;
     private Intent i;
     private ImageView image;
@@ -50,7 +50,7 @@ public class ComputerDetails extends AppCompatActivity {
 
         id = bundle.getString("id");
         vBrand = bundle.getInt("brand");
-        vRam = bundle.getString("ram");
+        vRam = bundle.getInt("ram");
         vColor = bundle.getInt("color");
         vType = bundle.getInt("type");
         vOS = bundle.getInt("OS");
