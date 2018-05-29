@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "128304682721",
+    "firebase_url": "https://computadoras-89260.firebaseio.com",
+    "project_id": "computadoras-89260",
+    "storage_bucket": "computadoras-89260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128304682721:android:d0789942583cbf11",
+        "android_client_info": {
+          "package_name": "com.computadoras.computadoras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128304682721-vodkmv80errm4sr0qlc2s8nssgp9a5dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.computadoras.computadoras",
+            "certificate_hash": "aca020756bf1bb20f76236602dc3eb6bf0931a29"
+          }
+        },
+        {
+          "client_id": "128304682721-bu0jeviqk411loo7qlruip8sqgjf4788.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128304682721-bu0jeviqk411loo7qlruip8sqgjf4788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DGc8BAPO8VYbz2hU8i6OxEiqz_Ov_PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128304682721-bu0jeviqk411loo7qlruip8sqgjf4788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
