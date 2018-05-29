@@ -65,7 +65,7 @@ public class ComputerDetails extends AppCompatActivity {
         image.setImageDrawable(ResourcesCompat.getDrawable(res, img,null));
 
         brand.setText(textBrand[vBrand]);
-        ram.setText(vRam);
+        ram.setText(vRam+"GB");
         color.setText(textColor[vColor]);
         type.setText(textType[vType]);
         OS.setText(textOS[vOS]);

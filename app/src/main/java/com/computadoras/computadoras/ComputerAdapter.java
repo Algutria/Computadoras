@@ -40,7 +40,7 @@ import java.util.ArrayList;
          txtOS = res.getStringArray(R.array.os_array);
 
          holder.image.setImageDrawable(ResourcesCompat.getDrawable(res, c.getImage(), null));
-         holder.ram.setText(c.getRam());
+         holder.ram.setText(c.getRam()+"GB");
 
          holder.color.setText(txtColor[c.getColor()]);
 
